@@ -1,6 +1,6 @@
 # Augmented Reality with Unity & Vuforia [![Build and deploy documentation](https://github.com/lakermann/ar-with-unity-workshop/actions/workflows/build-and-deploy-documentation.yml/badge.svg)](https://github.com/lakermann/ar-with-unity-workshop/actions/workflows/build-and-deploy-documentation.yml)
 
-_by [Lukas Akermann](https://github.com/lakermann), Mai 2016_
+_by [Lukas Akermann](https://github.com/lakermann), May 2016_
 
 Course material for the "Augmented Reality with Unity & Vuforia" workshop.
 
